@@ -14,7 +14,12 @@ export const metadata: Metadata = {
     "The Medical Agent handles the administrative half of a practice: reminders and recalls, prior authorizations, patient instructions in plain language, and records organization. Administrative support only, never diagnosis.",
   alternates: { canonical: SITE_URL },
   robots: { index: true, follow: true },
-  openGraph: { siteName: SITE_NAME, type: "website", locale: "en_US" },
+  openGraph: {
+    siteName: SITE_NAME,
+    type: "website",
+    locale: "en_US",
+    images: [{ url: `${SITE_URL}/images/og-image.jpg`, width: 1200, height: 630 }],
+  },
   other: {
     "geo.region": "US-NY",
     "geo.placename": "Roslyn Heights, NY",
