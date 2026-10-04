@@ -100,8 +100,8 @@ export default function Page() {
               <p>
                 That is deliberate. A generic assistant that knows a little about every
                 industry is useful to nobody in particular. An agent that understands
-                contingency dates, showing feedback, and why a past client matters two years
-                later is useful to you.
+                prior authorizations, referral loops, and why a recall reminder matters six
+                months later is useful to you.
               </p>
             </div>
           </div>

@@ -26,7 +26,7 @@ const COMPARISON = [
   },
   {
     chatbot: "It forgets you between conversations.",
-    agent: "It keeps a working memory of your matters, your positions, and how you draft.",
+    agent: "It keeps a working memory of your practice, your preferences, and how you write.",
   },
   {
     chatbot: "It can only tell you what to do.",
@@ -80,7 +80,7 @@ export default function Page() {
               </p>
               <p>
                 That is the whole distinction, and it is why an agent can be measured in
-                matters and deadlines instead of in prompts.
+                follow-ups closed and hours returned to your day instead of in prompts.
               </p>
             </div>
           </div>
@@ -127,8 +127,8 @@ export default function Page() {
             </h2>
             <div className="text-lg text-ink leading-relaxed space-y-4">
               <p>
-                Legal runs on the most sensitive information in the company: margins,
-                payroll, covenant headroom, what the cash position really is. That is not
+                A practice runs on sensitive information: schedules, referrals, payer
+                correspondence, and the details of how your office really works. That is not
                 material to hand to a shared consumer product.
               </p>
               <p>

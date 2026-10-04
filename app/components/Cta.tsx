@@ -52,7 +52,7 @@ export function CtaPair({
 
 /** The closing section every interior page ends on. */
 export function ClosingCta({
-  heading = "Ready to Meet Your AI Legal Agent?",
+  heading = "Ready to Meet Your AI Medical Agent?",
   body = "Build your agent online in about fifteen minutes, or schedule a 30-minute consultation and we will show you exactly how it would be configured for your practice.",
 }: {
   heading?: string;
