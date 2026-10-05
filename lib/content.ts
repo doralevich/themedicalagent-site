@@ -36,10 +36,10 @@ export const CAPABILITIES = [
 
 export const PROCESS = [
   {
-    phase: "Day 1",
+    phase: "15 min",
     num: "01",
-    title: "We Learn Your Practice",
-    body: "Your specialty, your patient population, your systems, and your voice. We set what the agent may draft, what it must route to a clinician, and what it must never touch.",
+    title: "You Tell It Your Practice",
+    body: "Your specialty, your patient population, your systems, and your voice. Set what the agent may draft, what it must route to a clinician, and what stays off limits. That is the questionnaire, and your agent is built from it and running in about fifteen minutes.",
   },
   {
     phase: "Week 1",
@@ -123,7 +123,7 @@ export const FAQS = [
   },
   {
     q: "How long does setup take?",
-    a: "Most practices are live within two weeks. We configure it on your specialty, your patient population, your standing instructions and your voice, and connect the systems the work already lives in.",
+    a: "About fifteen minutes. The questionnaire is the configuration: your specialty, your patient population, your standing instructions and your voice. Your agent is built from it and running as soon as you connect the systems the work already lives in. Hands-on onboarding and 30 days of training are available as an add-on, and come with every custom deployment.",
   },
   {
     q: "Does it replace front office staff?",
